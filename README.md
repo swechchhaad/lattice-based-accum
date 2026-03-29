@@ -1,0 +1,1 @@
+This is an attemt at optimizing the lattice-based accumulator construction of Kemmoe–Lysyanskaya–Nguyen for post-quantum anonymous credential revocation, specifically focusing on reducing witness size and improving efficiency.
